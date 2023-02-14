@@ -1,0 +1,104 @@
+/* Feel free to change any of the styling below!*/
+body {
+    text-align: center;
+
+}
+
+img {
+    width: 350px;
+}
+
+h1 {
+    font-size: 25px;
+}
+
+div {
+    font-size: 25px;
+}
+
+.title {
+    font-size: 50px;
+    font-weight: 800;
+}
+
+.lets-go-button {
+    display: flex;
+    justify-content: center;
+
+}
+
+button {
+    height: 40px;
+}
+
+.story-opening {
+    display: none;
+}
+
+.cutscene1 {
+    display: none;
+}
+
+.map-screen {
+    display: none;
+}
+
+.cutscene-volcanic1 {
+    display: none;
+}
+
+.debris-shoot {
+    display: none;
+}
+
+.debris-dodge {
+    display: none;
+}
+
+.game-over-pyro{
+display:none;
+}
+
+.debris-shoot-end-boss {
+    display: none;
+}
+
+.cutscene-flora1 {
+    display: none;
+}
+
+.army-conflict {
+    display: none;
+}
+
+.army-cignore-end {
+    display: none;
+}
+
+.game-over-flora{
+display:none;
+}
+
+.army-ccollect {
+    display: none;
+}
+
+.flora-end-boss {
+    display: none;
+}
+
+.aftermath{
+display:none;
+}
+
+.plot-twist{
+display:none;
+}
+
+.cliffhanger2{
+display:none;
+}
+
+.game-over-special{
+display:none;
+}
